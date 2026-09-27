@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite the paper below."
+title: "Quorum credit economy simulation"
+authors:
+  - family-names: Ozer
+    given-names: Murat
+    affiliation: "School of Information Technology, University of Cincinnati"
+    email: m.ozer@uc.edu
+license: MIT
+date-released: 2026-09-27
+url: "https://jquorum.org"
+keywords:
+  - peer review
+  - open access
+  - agent-based simulation
+  - scholarly communication
+preferred-citation:
+  type: article
+  title: "Paying for Publication with Peer Review: Design and Simulation of a Fee-Free, Credit-Based Open Access Journal for Information Technology"
+  authors:
+    - family-names: Ozer
+      given-names: Murat
+      affiliation: "School of Information Technology, University of Cincinnati"
+  year: 2026
+  notes: "arXiv preprint. Identifier to be added after posting."
