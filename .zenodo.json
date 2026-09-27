@@ -1,0 +1,21 @@
+{
+  "title": "Quorum credit economy simulation",
+  "upload_type": "software",
+  "description": "<p>Agent-based simulation of the review-credit economy used by Quorum: An Open Journal of Information Technology (https://jquorum.org), a journal that is free for readers and authors and uses peer review as its currency. Every first complete review of a manuscript earns one credit, and one credit pays for one submission.</p><p>The repository contains the model, the scenario definitions with their random seeds, the complete outputs and the figures behind the simulation study in: Ozer, M. (2026). Paying for publication with peer review: Design and simulation of a fee-free, credit-based open access journal for information technology.</p>",
+  "creators": [
+    {
+      "name": "Ozer, Murat",
+      "affiliation": "School of Information Technology, University of Cincinnati"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "peer review",
+    "open access",
+    "diamond open access",
+    "reviewer incentives",
+    "agent-based simulation",
+    "scholarly communication"
+  ],
+  "language": "eng"
+}
