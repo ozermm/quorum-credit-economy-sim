@@ -7,6 +7,8 @@ authors:
     affiliation: "School of Information Technology, University of Cincinnati"
     email: m.ozer@uc.edu
 license: MIT
+version: 1.0.0
+doi: 10.5281/zenodo.23002206
 date-released: 2026-09-27
 url: "https://jquorum.org"
 keywords:
@@ -22,4 +24,6 @@ preferred-citation:
       given-names: Murat
       affiliation: "School of Information Technology, University of Cincinnati"
   year: 2026
-  notes: "arXiv preprint. Identifier to be added after posting."
+  journal: "arXiv preprint"
+  doi: 10.48550/arXiv.2609.33864
+  url: "https://arxiv.org/abs/2609.33864"

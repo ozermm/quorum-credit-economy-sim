@@ -1,10 +1,13 @@
 # Quorum credit economy simulation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23002206.svg)](https://doi.org/10.5281/zenodo.23002206)
+[![arXiv](https://img.shields.io/badge/arXiv-2609.33864-b31b1b.svg)](https://arxiv.org/abs/2609.33864)
+
 Agent-based simulation of the review-credit economy used by [Quorum: An Open Journal of Information Technology](https://jquorum.org), a journal that is free for readers and authors and uses peer review as its currency: every first complete review of a manuscript earns one credit, and one credit pays for one submission.
 
 This repository contains the code, parameters, random seeds and complete outputs behind the simulation study in:
 
-> Ozer, M. (2026). Paying for publication with peer review: Design and simulation of a fee-free, credit-based open access journal for information technology. *arXiv preprint* (link to be added).
+> Ozer, M. (2026). Paying for publication with peer review: Design and simulation of a fee-free, credit-based open access journal for information technology. *arXiv preprint* arXiv:2609.33864. https://doi.org/10.48550/arXiv.2609.33864
 
 ## What the model represents
 
@@ -81,4 +84,8 @@ Code: MIT License (see `LICENSE`). Results and figures: [CC BY 4.0](https://crea
 
 ## Citation
 
-If you use this code or its results, please cite the paper above. Citation metadata is in `CITATION.cff`.
+If you use this code or its results, please cite the paper above and, for the software itself:
+
+> Ozer, M. (2026). Quorum credit economy simulation (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23002206
+
+Citation metadata is in `CITATION.cff`.
